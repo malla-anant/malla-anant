@@ -1,41 +1,27 @@
 # Hi there 👋, I'm Malla Anant  
 
-🎓 I'm currently pursuing my MCA from **Parul University** and passionate about **AI, Machine Learning, and Data Science**.  
-💻 I love solving problems using **C++ (DSA)**, building **end-to-end AI/ML projects**, and exploring **web technologies** like React and FastAPI.  
-📈 Currently working on **Smart Object Finder using AI and Computer Vision**.  
+🎓 I'm currently pursuing my MCA from **Parul University** and passionate about **Data Science and Data Analytics**.  
+💻 I love solving problems using **C++ (DSA) and python (DSA)**, building **end-to-end projects**.  
 🧩 I believe in learning by doing and making my journey enjoyable and impactful.  
 
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** C++, Python, Java, SQL  
-- **Frameworks:** FastAPI, Flask, React (Vite + Tailwind)  
-- **ML Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, XGBoost  
+- **Languages:** C++, Python, SQL  
+- **ML Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Databases:** MongoDB, MySQL  
 - **Visualization:** Power BI  
 
 ---
 
 ### 🌱 Currently Learning
-- Deep Learning (PyTorch)  
-- Advanced Machine Learning Models  
 - Data Analytics & Visualization  
 
 ---
 
-### 🚀 Featured Projects
-- 🏠 **Bangalore House Price Predictor** — ML + Flask  
-- 🎬 **Movie Recommendation System**  
-- 🔍 **Smart Object Finder using AI & Computer Vision**  
-- 📊 **Cricket Best 11 (Power BI)**  
-
----
-
 ### 📫 Connect with me
-- 🌐 [Portfolio (Coming Soon)]()  
-- 💼 [LinkedIn](#)  
-- 📊 [Kaggle](#)  
-- 📧 malla.anant@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anant-malla-8a7b3233a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BftBPjXcsQ4Kqi8UJ8NxsDw%3D%3D) 
+- 📧 mallaanant2003@gmail.com
 
 ---
 
