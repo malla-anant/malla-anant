@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋, I'm Malla Anant  
 
-<!--
-**malla-anant/malla-anant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing my MCA from **Parul University** and passionate about **AI, Machine Learning, and Data Science**.  
+💻 I love solving problems using **C++ (DSA)**, building **end-to-end AI/ML projects**, and exploring **web technologies** like React and FastAPI.  
+📈 Currently working on **Smart Object Finder using AI and Computer Vision**.  
+🧩 I believe in learning by doing and making my journey enjoyable and impactful.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** C++, Python, Java, SQL  
+- **Frameworks:** FastAPI, Flask, React (Vite + Tailwind)  
+- **ML Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, XGBoost  
+- **Databases:** MongoDB, MySQL  
+- **Visualization:** Power BI  
+
+---
+
+### 🌱 Currently Learning
+- Deep Learning (PyTorch)  
+- Advanced Machine Learning Models  
+- Data Analytics & Visualization  
+
+---
+
+### 🚀 Featured Projects
+- 🏠 **Bangalore House Price Predictor** — ML + Flask  
+- 🎬 **Movie Recommendation System**  
+- 🔍 **Smart Object Finder using AI & Computer Vision**  
+- 📊 **Cricket Best 11 (Power BI)**  
+
+---
+
+### 📫 Connect with me
+- 🌐 [Portfolio (Coming Soon)]()  
+- 💼 [LinkedIn](#)  
+- 📊 [Kaggle](#)  
+- 📧 malla.anant@example.com  
+
+---
+
+⭐ *“Code. Learn. Create. Repeat.”*
