@@ -20,8 +20,9 @@
 ---
 
 ### 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/anant-malla-8a7b3233a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BftBPjXcsQ4Kqi8UJ8NxsDw%3D%3D) 
-- 📧 mallaanant2003@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/anant-malla-8a7b3233a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BftBPjXcsQ4Kqi8UJ8NxsDw%3D%3D) 
+- mallaanant2003@gmail.com
+- [Portfolio](https://malla-anant.github.io/)
 
 ---
 
